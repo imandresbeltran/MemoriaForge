@@ -14,5 +14,7 @@ public:
 	void insertNode(Node* node);
 
 	Node* searchNode(std::string hashKey);
+
+
 };
 
