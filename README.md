@@ -7,9 +7,9 @@ MemoriaForge transcends the ordinary InMemoryDB project. Picture a console envir
 
 ### Features:
 
-CSV Loading Marvel: Effortlessly load and navigate a million-line CSV document within the console.
-Hash Table Mastery: Utilize the magic of Hash Tables to swiftly find and retrieve related data for a given key.
-Performance Unleashed: Witness the efficiency as MemoriaForge transforms the seemingly complex into a console-driven ballet of data.
+**CSV Loading Marvel:** Effortlessly load and navigate a million-line CSV document within the console.
+**Hash Table Mastery:** Utilize the magic of Hash Tables to swiftly find and retrieve related data for a given key.
+**Performance Unleashed:** Witness the efficiency as MemoriaForge transforms the seemingly complex into a console-driven ballet of data.
 
 ## Autor ✒️
 **Andrés Beltran**
